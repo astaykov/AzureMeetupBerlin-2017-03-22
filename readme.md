@@ -65,7 +65,7 @@ There are various sites for cheap electronic products and on the meeting you saw
 
 ## Slides
 
-You can find the slides used for the meeting on [Slide Share - IoT on budged](https://www.slideshare.net/AntonStaykov/iot-on-budget).
+You can find the slides used for the meeting on [Slide Share - IoT on budget](https://www.slideshare.net/AntonStaykov/iot-on-budget).
 
 ## Disclaimer
 
